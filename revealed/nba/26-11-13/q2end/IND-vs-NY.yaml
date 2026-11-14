@@ -1,0 +1,22 @@
+id: nba/26-11-13/q2end/IND-vs-NY
+timestamp: 2026-11-14T01:13:10.543Z
+salt: ec58c3bb490547f3
+timing: q2end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909296"
+  date: 2026-11-13
+  start: 2026-11-14T00:00Z
+  home: INDIANA PACERS
+  away: NEW YORK KNICKS
+  homeAbbr: IND
+  awayAbbr: NY
+  note: ml no market; hc bet
+bets:
+  - market: spread
+    pick: INDIANA PACERS
+    line: -1.5
+    odds: 1.8333333333333335
+    prob: 0.5524747987457349
+    stake: 0.0009652848275385482

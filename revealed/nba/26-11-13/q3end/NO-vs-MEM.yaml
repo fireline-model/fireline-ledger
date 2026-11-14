@@ -1,0 +1,21 @@
+id: nba/26-11-13/q3end/NO-vs-MEM
+timestamp: 2026-11-14T02:58:08.112Z
+salt: e5d9ad8db38e26dc
+timing: q3end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909300"
+  date: 2026-11-13
+  start: 2026-11-14T01:00Z
+  home: NEW ORLEANS PELICANS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: NO
+  awayAbbr: MEM
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: MEMPHIS GRIZZLIES
+    odds: 1.0714285714285714
+    prob: 0.9536887305538104
+    stake: 0.0190831848941972

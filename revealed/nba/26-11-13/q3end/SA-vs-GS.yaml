@@ -1,0 +1,15 @@
+id: nba/26-11-13/q3end/SA-vs-GS
+timestamp: 2026-11-14T04:27:02.924Z
+salt: 2c7c8f5a694cc5ad
+timing: q3end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909302"
+  date: 2026-11-13
+  start: 2026-11-14T02:30Z
+  home: SAN ANTONIO SPURS
+  away: GOLDEN STATE WARRIORS
+  homeAbbr: SA
+  awayAbbr: GS
+  note: ml no market; hc no market

@@ -1,0 +1,15 @@
+id: nba/26-11-13/q2end/CHI-vs-ATL
+timestamp: 2026-11-14T02:02:40.785Z
+salt: 93e9818fc4315a59
+timing: q2end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909299"
+  date: 2026-11-13
+  start: 2026-11-14T01:00Z
+  home: CHICAGO BULLS
+  away: ATLANTA HAWKS
+  homeAbbr: CHI
+  awayAbbr: ATL
+  note: ml no market; hc no market

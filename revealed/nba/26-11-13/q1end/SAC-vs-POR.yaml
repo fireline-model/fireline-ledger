@@ -1,0 +1,15 @@
+id: nba/26-11-13/q1end/SAC-vs-POR
+timestamp: 2026-11-14T03:31:16.419Z
+salt: 02e90b4226c23bf8
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909303"
+  date: 2026-11-13
+  start: 2026-11-14T03:00Z
+  home: SACRAMENTO KINGS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: SAC
+  awayAbbr: POR
+  note: ml no market; hc no market

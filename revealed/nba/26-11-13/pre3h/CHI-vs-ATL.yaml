@@ -1,0 +1,27 @@
+id: nba/26-11-13/pre3h/CHI-vs-ATL
+timestamp: 2026-11-13T20:33:14.149Z
+salt: 67a74c5371437af9
+timing: pre3h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909299"
+  date: 2026-11-13
+  start: 2026-11-14T01:00Z
+  home: CHICAGO BULLS
+  away: ATLANTA HAWKS
+  homeAbbr: CHI
+  awayAbbr: ATL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: CHICAGO BULLS
+    odds: 3.27
+    prob: 0.47169114964647907
+    stake: 0.007701789654348737
+  - market: spread
+    pick: CHICAGO BULLS
+    line: 6.5
+    odds: 1.970873786407767
+    prob: 0.7013845937638234
+    stake: 0.016911380679436355

@@ -1,0 +1,22 @@
+id: nba/26-11-13/pre6h/NO-vs-MEM
+timestamp: 2026-11-13T19:04:43.457Z
+salt: b11d6bbc88bdf03b
+timing: pre6h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909300"
+  date: 2026-11-13
+  start: 2026-11-14T01:00Z
+  home: NEW ORLEANS PELICANS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: NO
+  awayAbbr: MEM
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: NEW ORLEANS PELICANS
+    line: 3.5
+    odds: 1.8928571428571428
+    prob: 0.5528599169034224
+    stake: 0.0032539389897034646

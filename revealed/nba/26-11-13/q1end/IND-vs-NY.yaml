@@ -1,0 +1,15 @@
+id: nba/26-11-13/q1end/IND-vs-NY
+timestamp: 2026-11-14T00:30:47.974Z
+salt: a629863dbf955107
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909296"
+  date: 2026-11-13
+  start: 2026-11-14T00:00Z
+  home: INDIANA PACERS
+  away: NEW YORK KNICKS
+  homeAbbr: IND
+  awayAbbr: NY
+  note: ml no bet; hc no market

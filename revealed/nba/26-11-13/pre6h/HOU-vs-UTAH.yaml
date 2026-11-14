@@ -1,0 +1,22 @@
+id: nba/26-11-13/pre6h/HOU-vs-UTAH
+timestamp: 2026-11-13T19:33:10.199Z
+salt: 3ebab25c00d2a749
+timing: pre6h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909301"
+  date: 2026-11-13
+  start: 2026-11-14T01:30Z
+  home: HOUSTON ROCKETS
+  away: UTAH JAZZ
+  homeAbbr: HOU
+  awayAbbr: UTAH
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: HOUSTON ROCKETS
+    line: -14.5
+    odds: 1.8547008547008548
+    prob: 0.6453603998613511
+    stake: 0.01440200423119575

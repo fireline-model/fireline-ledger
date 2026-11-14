@@ -1,0 +1,15 @@
+id: nba/26-11-13/q1end/LAC-vs-OKC
+timestamp: 2026-11-14T04:05:16.050Z
+salt: fe7fdd7e0feab96c
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909304"
+  date: 2026-11-13
+  start: 2026-11-14T03:30Z
+  home: LA CLIPPERS
+  away: OKLAHOMA CITY THUNDER
+  homeAbbr: LAC
+  awayAbbr: OKC
+  note: ml no market; hc no market

@@ -1,0 +1,15 @@
+id: nba/26-11-13/q3end/ORL-vs-MIL
+timestamp: 2026-11-14T01:46:34.733Z
+salt: e848134e42f50a48
+timing: q3end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909297"
+  date: 2026-11-13
+  start: 2026-11-14T00:00Z
+  home: ORLANDO MAGIC
+  away: MILWAUKEE BUCKS
+  homeAbbr: ORL
+  awayAbbr: MIL
+  note: ml no market; hc no market

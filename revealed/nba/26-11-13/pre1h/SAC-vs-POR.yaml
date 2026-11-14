@@ -1,0 +1,22 @@
+id: nba/26-11-13/pre1h/SAC-vs-POR
+timestamp: 2026-11-14T01:00:05.818Z
+salt: 89d53ea3540882b1
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909303"
+  date: 2026-11-13
+  start: 2026-11-14T03:00Z
+  home: SACRAMENTO KINGS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: SAC
+  awayAbbr: POR
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: SACRAMENTO KINGS
+    line: 10.5
+    odds: 1.8695652173913042
+    prob: 0.6506122112173359
+    stake: 0.015551015882329508

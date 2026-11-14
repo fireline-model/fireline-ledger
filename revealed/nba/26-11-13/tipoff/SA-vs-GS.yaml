@@ -1,0 +1,22 @@
+id: nba/26-11-13/tipoff/SA-vs-GS
+timestamp: 2026-11-14T02:46:03.245Z
+salt: adae2cf32c8b48d7
+timing: tipoff
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909302"
+  date: 2026-11-13
+  start: 2026-11-14T02:30Z
+  home: SAN ANTONIO SPURS
+  away: GOLDEN STATE WARRIORS
+  homeAbbr: SA
+  awayAbbr: GS
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: SAN ANTONIO SPURS
+    line: -12.5
+    odds: 1.8928571428571428
+    prob: 0.5758675803663423
+    stake: 0.00630245439854035

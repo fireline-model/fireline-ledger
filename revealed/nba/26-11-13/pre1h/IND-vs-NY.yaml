@@ -1,0 +1,22 @@
+id: nba/26-11-13/pre1h/IND-vs-NY
+timestamp: 2026-11-13T22:01:00.703Z
+salt: 62e2b388774e9387
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909296"
+  date: 2026-11-13
+  start: 2026-11-14T00:00Z
+  home: INDIANA PACERS
+  away: NEW YORK KNICKS
+  homeAbbr: IND
+  awayAbbr: NY
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: -8.5
+    odds: 1.9090909090909092
+    prob: 0.6213744804132395
+    stake: 0.012805400554237683

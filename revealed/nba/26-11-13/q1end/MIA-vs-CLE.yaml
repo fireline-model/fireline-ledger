@@ -1,0 +1,21 @@
+id: nba/26-11-13/q1end/MIA-vs-CLE
+timestamp: 2026-11-14T01:33:50.657Z
+salt: 29d8ad663bd7c6c2
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909298"
+  date: 2026-11-13
+  start: 2026-11-14T01:00Z
+  home: MIAMI HEAT
+  away: CLEVELAND CAVALIERS
+  homeAbbr: MIA
+  awayAbbr: CLE
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: CLEVELAND CAVALIERS
+    odds: 2.3
+    prob: 0.6452589277099064
+    stake: 0.02327382373715312

@@ -1,0 +1,22 @@
+id: nba/26-11-13/pre1h/LAC-vs-OKC
+timestamp: 2026-11-14T01:30:01.259Z
+salt: 7693104d957ae601
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909304"
+  date: 2026-11-13
+  start: 2026-11-14T03:30Z
+  home: LA CLIPPERS
+  away: OKLAHOMA CITY THUNDER
+  homeAbbr: LAC
+  awayAbbr: OKC
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: OKLAHOMA CITY THUNDER
+    line: -7.5
+    odds: 1.9345794392523366
+    prob: 0.6547076365631159
+    stake: 0.017827800480353127
