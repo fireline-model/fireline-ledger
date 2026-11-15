@@ -1,0 +1,22 @@
+id: nba/26-11-14/q4last5m/MIA-vs-DET
+timestamp: 2026-11-15T03:29:10.776Z
+salt: f133d3b34dc9b9cb
+timing: q4last5m
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909982"
+  date: 2026-11-14
+  start: 2026-11-15T01:00Z
+  home: MIAMI HEAT
+  away: DETROIT PISTONS
+  homeAbbr: MIA
+  awayAbbr: DET
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: MIAMI HEAT
+    line: -11.5
+    odds: 1.9090909090909092
+    prob: 0.654587854961385
+    stake: 0.01716465596368179

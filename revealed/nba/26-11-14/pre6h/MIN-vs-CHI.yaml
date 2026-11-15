@@ -1,0 +1,27 @@
+id: nba/26-11-14/pre6h/MIN-vs-CHI
+timestamp: 2026-11-14T19:00:32.342Z
+salt: b239fe3428e7b25b
+timing: pre6h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909984"
+  date: 2026-11-14
+  start: 2026-11-15T01:00Z
+  home: MINNESOTA TIMBERWOLVES
+  away: CHICAGO BULLS
+  homeAbbr: MIN
+  awayAbbr: CHI
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: CHICAGO BULLS
+    odds: 7.6
+    prob: 0.21192198452892885
+    stake: 0.0012470720966120446
+  - market: spread
+    pick: CHICAGO BULLS
+    line: 15.5
+    odds: 1.925925925925926
+    prob: 0.6938756495180894
+    stake: 0.019682923271230737

@@ -1,0 +1,15 @@
+id: nba/26-11-14/q2end/NO-vs-DEN
+timestamp: 2026-11-15T01:04:24.529Z
+salt: ceed066e06d1282a
+timing: q2end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909980"
+  date: 2026-11-14
+  start: 2026-11-15T00:00Z
+  home: NEW ORLEANS PELICANS
+  away: DENVER NUGGETS
+  homeAbbr: NO
+  awayAbbr: DEN
+  note: ml no market; hc no market

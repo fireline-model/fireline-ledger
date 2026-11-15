@@ -1,0 +1,22 @@
+id: nba/26-11-14/q2end/MEM-vs-BKN
+timestamp: 2026-11-15T02:03:50.224Z
+salt: 484403bda930fafb
+timing: q2end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909983"
+  date: 2026-11-14
+  start: 2026-11-15T01:00Z
+  home: MEMPHIS GRIZZLIES
+  away: BROOKLYN NETS
+  homeAbbr: MEM
+  awayAbbr: BKN
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: MEMPHIS GRIZZLIES
+    line: -9.5
+    odds: 1.9090909090909092
+    prob: 0.602375095324255
+    stake: 0.01031173126130848

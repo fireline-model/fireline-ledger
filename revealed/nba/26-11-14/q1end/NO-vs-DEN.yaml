@@ -1,0 +1,21 @@
+id: nba/26-11-14/q1end/NO-vs-DEN
+timestamp: 2026-11-15T00:33:27.467Z
+salt: c39501e0a136fc1b
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909980"
+  date: 2026-11-14
+  start: 2026-11-15T00:00Z
+  home: NEW ORLEANS PELICANS
+  away: DENVER NUGGETS
+  homeAbbr: NO
+  awayAbbr: DEN
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: NEW ORLEANS PELICANS
+    odds: 6.5
+    prob: 0.23856460962254822
+    stake: 0.0036946871411969425

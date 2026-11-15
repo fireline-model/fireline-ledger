@@ -1,0 +1,27 @@
+id: nba/26-11-14/pre1h/CLE-vs-DAL
+timestamp: 2026-11-14T22:30:51.117Z
+salt: 04617f5b5a76b736
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909981"
+  date: 2026-11-14
+  start: 2026-11-15T00:30Z
+  home: CLEVELAND CAVALIERS
+  away: DALLAS MAVERICKS
+  homeAbbr: CLE
+  awayAbbr: DAL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: CLEVELAND CAVALIERS
+    odds: 2.9
+    prob: 0.7086113827345414
+    stake: 0.03253808172996526
+  - market: spread
+    pick: CLEVELAND CAVALIERS
+    line: 5.5
+    odds: 1.925925925925926
+    prob: 0.8036970476181771
+    stake: 0.004442534460397765
