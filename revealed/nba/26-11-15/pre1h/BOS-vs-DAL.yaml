@@ -1,0 +1,22 @@
+id: nba/26-11-15/pre1h/BOS-vs-DAL
+timestamp: 2026-11-15T21:00:21.943Z
+salt: 5c38896d52e840cc
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909989"
+  date: 2026-11-15
+  start: 2026-11-15T23:00Z
+  home: BOSTON CELTICS
+  away: DALLAS MAVERICKS
+  homeAbbr: BOS
+  awayAbbr: DAL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: BOSTON CELTICS
+    line: -14.5
+    odds: 1.9090909090909092
+    prob: 0.5562086780577598
+    stake: 0.007276526145084396

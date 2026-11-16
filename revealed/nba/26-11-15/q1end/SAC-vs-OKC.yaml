@@ -1,0 +1,15 @@
+id: nba/26-11-15/q1end/SAC-vs-OKC
+timestamp: 2026-11-16T02:32:12.839Z
+salt: 9f31e24f9ce9f7ef
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909993"
+  date: 2026-11-15
+  start: 2026-11-16T02:00Z
+  home: SACRAMENTO KINGS
+  away: OKLAHOMA CITY THUNDER
+  homeAbbr: SAC
+  awayAbbr: OKC
+  note: ml no bet; hc no bet

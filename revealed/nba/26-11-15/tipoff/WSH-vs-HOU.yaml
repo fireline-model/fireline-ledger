@@ -1,0 +1,22 @@
+id: nba/26-11-15/tipoff/WSH-vs-HOU
+timestamp: 2026-11-16T00:11:40.682Z
+salt: c37d9da4b6c361be
+timing: tipoff
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909991"
+  date: 2026-11-15
+  start: 2026-11-16T00:00Z
+  home: WASHINGTON WIZARDS
+  away: HOUSTON ROCKETS
+  homeAbbr: WSH
+  awayAbbr: HOU
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: HOUSTON ROCKETS
+    line: -8.5
+    odds: 1.9090909090909092
+    prob: 0.531665502573712
+    stake: 0.0010310972127997114

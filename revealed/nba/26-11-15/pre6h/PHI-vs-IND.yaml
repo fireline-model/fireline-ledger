@@ -1,0 +1,15 @@
+id: nba/26-11-15/pre6h/PHI-vs-IND
+timestamp: 2026-11-15T12:04:53.689Z
+salt: 72442b33385855e1
+timing: pre6h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909985"
+  date: 2026-11-15
+  start: 2026-11-15T18:00Z
+  home: PHILADELPHIA 76ERS
+  away: INDIANA PACERS
+  homeAbbr: PHI
+  awayAbbr: IND
+  note: ml no bet; hc no bet

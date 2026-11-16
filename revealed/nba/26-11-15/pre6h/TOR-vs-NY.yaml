@@ -1,0 +1,22 @@
+id: nba/26-11-15/pre6h/TOR-vs-NY
+timestamp: 2026-11-15T17:00:23.767Z
+salt: e06bd8ad4b1963cf
+timing: pre6h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909990"
+  date: 2026-11-15
+  start: 2026-11-15T23:00Z
+  home: TORONTO RAPTORS
+  away: NEW YORK KNICKS
+  homeAbbr: TOR
+  awayAbbr: NY
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: -4.5
+    odds: 1.9090909090909092
+    prob: 0.721789068563512
+    stake: 0.025984815248960944

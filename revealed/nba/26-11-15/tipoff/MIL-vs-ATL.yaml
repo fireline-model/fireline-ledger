@@ -1,0 +1,15 @@
+id: nba/26-11-15/tipoff/MIL-vs-ATL
+timestamp: 2026-11-16T01:10:42.688Z
+salt: 344eb5fa32db460b
+timing: tipoff
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909992"
+  date: 2026-11-15
+  start: 2026-11-16T01:00Z
+  home: MILWAUKEE BUCKS
+  away: ATLANTA HAWKS
+  homeAbbr: MIL
+  awayAbbr: ATL
+  note: ml no bet; hc no bet

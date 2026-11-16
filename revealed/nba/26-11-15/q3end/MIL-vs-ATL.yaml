@@ -1,0 +1,27 @@
+id: nba/26-11-15/q3end/MIL-vs-ATL
+timestamp: 2026-11-16T02:44:16.964Z
+salt: 1b292a39f7bb2d3b
+timing: q3end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909992"
+  date: 2026-11-15
+  start: 2026-11-16T01:00Z
+  home: MILWAUKEE BUCKS
+  away: ATLANTA HAWKS
+  homeAbbr: MIL
+  awayAbbr: ATL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: ATLANTA HAWKS
+    odds: 1.1538461538461537
+    prob: 0.9139461332029182
+    stake: 0.0038101067533285256
+  - market: spread
+    pick: ATLANTA HAWKS
+    line: -8.5
+    odds: 1.8695652173913042
+    prob: 0.676474336712511
+    stake: 0.018352143185539387

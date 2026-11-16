@@ -1,0 +1,27 @@
+id: nba/26-11-15/tipoff/TOR-vs-NY
+timestamp: 2026-11-15T23:12:48.516Z
+salt: 71b9cb9e5fbe201b
+timing: tipoff
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909990"
+  date: 2026-11-15
+  start: 2026-11-15T23:00Z
+  home: TORONTO RAPTORS
+  away: NEW YORK KNICKS
+  homeAbbr: TOR
+  awayAbbr: NY
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: NEW YORK KNICKS
+    odds: 1.5780346820809248
+    prob: 0.6672681837517485
+    stake: 0.004120395705700131
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: -4.5
+    odds: 1.9523809523809523
+    prob: 0.5442580007791105
+    stake: 0.001607238146941947

@@ -1,0 +1,22 @@
+id: nba/26-11-15/pre1h/SAC-vs-OKC
+timestamp: 2026-11-16T00:00:01.459Z
+salt: 889de60d169728fc
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909993"
+  date: 2026-11-15
+  start: 2026-11-16T02:00Z
+  home: SACRAMENTO KINGS
+  away: OKLAHOMA CITY THUNDER
+  homeAbbr: SAC
+  awayAbbr: OKC
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: OKLAHOMA CITY THUNDER
+    line: -11.5
+    odds: 1.925925925925926
+    prob: 0.6486316973411679
+    stake: 0.016822120654351826

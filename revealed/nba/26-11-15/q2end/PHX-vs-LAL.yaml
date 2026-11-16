@@ -1,0 +1,22 @@
+id: nba/26-11-15/q2end/PHX-vs-LAL
+timestamp: 2026-11-15T22:07:48.746Z
+salt: c4a2f52fe9b14c90
+timing: q2end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909986"
+  date: 2026-11-15
+  start: 2026-11-15T21:00Z
+  home: PHOENIX SUNS
+  away: LOS ANGELES LAKERS
+  homeAbbr: PHX
+  awayAbbr: LAL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: PHOENIX SUNS
+    line: 15.5
+    odds: 1.9090909090909092
+    prob: 0.6440283254404107
+    stake: 0.015778717714053897

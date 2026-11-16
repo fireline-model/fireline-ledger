@@ -1,0 +1,15 @@
+id: nba/26-11-15/q1end/PHX-vs-LAL
+timestamp: 2026-11-15T21:39:24.405Z
+salt: 4baad684af19e143
+timing: q1end
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909986"
+  date: 2026-11-15
+  start: 2026-11-15T21:00Z
+  home: PHOENIX SUNS
+  away: LOS ANGELES LAKERS
+  homeAbbr: PHX
+  awayAbbr: LAL
+  note: ml no market; hc no market
