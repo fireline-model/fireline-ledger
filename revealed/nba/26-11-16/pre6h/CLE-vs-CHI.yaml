@@ -1,0 +1,22 @@
+id: nba/26-11-16/pre6h/CLE-vs-CHI
+timestamp: 2026-11-16T18:01:01.968Z
+salt: 53dabb8051f24f53
+timing: pre6h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909995"
+  date: 2026-11-16
+  start: 2026-11-17T00:00Z
+  home: CLEVELAND CAVALIERS
+  away: CHICAGO BULLS
+  homeAbbr: CLE
+  awayAbbr: CHI
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: CLEVELAND CAVALIERS
+    line: -8.5
+    odds: 1.8849557522123894
+    prob: 0.5786194476003966
+    stake: 0.006403713961802796

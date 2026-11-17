@@ -1,0 +1,15 @@
+id: nba/26-11-16/q3end/MIA-vs-HOU
+timestamp: 2026-11-17T02:19:38.640Z
+salt: 43cfc3c9d9bc21f3
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401909998"
+  date: 2026-11-16
+  start: 2026-11-17T00:30Z
+  home: MIAMI HEAT
+  away: HOUSTON ROCKETS
+  homeAbbr: MIA
+  awayAbbr: HOU
+  note: ml no market; hc no market

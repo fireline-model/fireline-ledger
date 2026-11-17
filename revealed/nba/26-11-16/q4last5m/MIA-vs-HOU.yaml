@@ -1,0 +1,22 @@
+id: nba/26-11-16/q4last5m/MIA-vs-HOU
+timestamp: 2026-11-17T02:41:24.048Z
+salt: 3924fc8c45936f95
+timing: q4last5m
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401909998"
+  date: 2026-11-16
+  start: 2026-11-17T00:30Z
+  home: MIAMI HEAT
+  away: HOUSTON ROCKETS
+  homeAbbr: MIA
+  awayAbbr: HOU
+  note: ml no market; hc bet
+bets:
+  - market: spread
+    pick: HOUSTON ROCKETS
+    line: 21.5
+    odds: 1.8695652173913042
+    prob: 0.7314371365050255
+    stake: 0.026411865217862804

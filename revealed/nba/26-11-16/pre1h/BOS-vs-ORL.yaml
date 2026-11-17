@@ -1,0 +1,22 @@
+id: nba/26-11-16/pre1h/BOS-vs-ORL
+timestamp: 2026-11-16T22:01:34.138Z
+salt: 7dda92e9e6915fdb
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909994"
+  date: 2026-11-16
+  start: 2026-11-17T00:00Z
+  home: BOSTON CELTICS
+  away: ORLANDO MAGIC
+  homeAbbr: BOS
+  awayAbbr: ORL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: BOSTON CELTICS
+    line: -8.5
+    odds: 1.8849557522123894
+    prob: 0.5981866843736536
+    stake: 0.009008602357242634

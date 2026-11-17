@@ -1,0 +1,27 @@
+id: nba/26-11-16/pre1h/WSH-vs-MEM
+timestamp: 2026-11-16T22:01:30.413Z
+salt: 1316f1ee0f569387
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909996"
+  date: 2026-11-16
+  start: 2026-11-17T00:00Z
+  home: WASHINGTON WIZARDS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: WSH
+  awayAbbr: MEM
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: MEMPHIS GRIZZLIES
+    odds: 1.6451612903225805
+    prob: 0.7180620366325141
+    stake: 0.009878364357619742
+  - market: spread
+    pick: MEMPHIS GRIZZLIES
+    line: -3.5
+    odds: 1.9090909090909092
+    prob: 0.6357959988986635
+    stake: 0.007687772730687178

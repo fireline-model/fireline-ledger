@@ -1,0 +1,15 @@
+id: nba/26-11-16/q1end/WSH-vs-MEM
+timestamp: 2026-11-17T00:33:28.883Z
+salt: 6fff70f910a62092
+timing: q1end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401909996"
+  date: 2026-11-16
+  start: 2026-11-17T00:00Z
+  home: WASHINGTON WIZARDS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: WSH
+  awayAbbr: MEM
+  note: ml no market; hc no market

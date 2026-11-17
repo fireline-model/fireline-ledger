@@ -1,0 +1,15 @@
+id: nba/26-11-16/q1end/BKN-vs-PHI
+timestamp: 2026-11-17T01:04:29.204Z
+salt: 826987e4ef7af205
+timing: q1end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401909997"
+  date: 2026-11-16
+  start: 2026-11-17T00:30Z
+  home: BROOKLYN NETS
+  away: PHILADELPHIA 76ERS
+  homeAbbr: BKN
+  awayAbbr: PHI
+  note: ml no bet; hc no bet

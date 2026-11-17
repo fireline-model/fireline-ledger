@@ -1,0 +1,22 @@
+id: nba/26-11-16/pre1h/BKN-vs-PHI
+timestamp: 2026-11-16T22:31:00.568Z
+salt: acbbec884a26da9a
+timing: pre1h
+model: graphite-26-11-10
+match:
+  league: nba
+  gameId: "401909997"
+  date: 2026-11-16
+  start: 2026-11-17T00:30Z
+  home: BROOKLYN NETS
+  away: PHILADELPHIA 76ERS
+  homeAbbr: BKN
+  awayAbbr: PHI
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: PHILADELPHIA 76ERS
+    line: -4.5
+    odds: 1.847457627118644
+    prob: 0.6035070233190687
+    stake: 0.008477831927223114

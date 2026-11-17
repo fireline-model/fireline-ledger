@@ -1,0 +1,15 @@
+id: nba/26-11-16/q3end/BOS-vs-ORL
+timestamp: 2026-11-17T01:51:32.671Z
+salt: 0533b716e788813b
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401909994"
+  date: 2026-11-16
+  start: 2026-11-17T00:00Z
+  home: BOSTON CELTICS
+  away: ORLANDO MAGIC
+  homeAbbr: BOS
+  awayAbbr: ORL
+  note: ml no market; hc no market

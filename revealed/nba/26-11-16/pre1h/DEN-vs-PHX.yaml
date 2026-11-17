@@ -1,0 +1,27 @@
+id: nba/26-11-16/pre1h/DEN-vs-PHX
+timestamp: 2026-11-17T00:00:17.970Z
+salt: 365b70867c830ba7
+timing: pre1h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910001"
+  date: 2026-11-16
+  start: 2026-11-17T02:00Z
+  home: DENVER NUGGETS
+  away: PHOENIX SUNS
+  homeAbbr: DEN
+  awayAbbr: PHX
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: PHOENIX SUNS
+    odds: 4.33
+    prob: 0.3488632259702146
+    stake: 0.003263524264358347
+  - market: spread
+    pick: PHOENIX SUNS
+    line: 9.5
+    odds: 1.9433962264150944
+    prob: 0.7131628231138403
+    stake: 0.022306189211548585
