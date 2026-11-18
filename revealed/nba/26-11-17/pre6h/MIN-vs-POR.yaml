@@ -1,0 +1,27 @@
+id: nba/26-11-17/pre6h/MIN-vs-POR
+timestamp: 2026-11-17T19:01:01.198Z
+salt: df9fdcb57c6f4709
+timing: pre6h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910003"
+  date: 2026-11-17
+  start: 2026-11-18T01:00Z
+  home: MINNESOTA TIMBERWOLVES
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: MIN
+  awayAbbr: POR
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: MINNESOTA TIMBERWOLVES
+    odds: 1.7692307692307692
+    prob: 0.7128277788566937
+    stake: 0.007807274419742976
+  - market: spread
+    pick: MINNESOTA TIMBERWOLVES
+    line: -1.5
+    odds: 1.8695652173913042
+    prob: 0.686088586824376
+    stake: 0.013411718790906734

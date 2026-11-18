@@ -1,0 +1,15 @@
+id: nba/26-11-17/q3end/TOR-vs-NY
+timestamp: 2026-11-18T02:13:50.300Z
+salt: ddb9923845c0be4e
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910002"
+  date: 2026-11-17
+  start: 2026-11-18T00:30Z
+  home: TORONTO RAPTORS
+  away: NEW YORK KNICKS
+  homeAbbr: TOR
+  awayAbbr: NY
+  note: ml no bet; hc no bet

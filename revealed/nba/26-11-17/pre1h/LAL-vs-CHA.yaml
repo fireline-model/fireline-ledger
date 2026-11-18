@@ -1,0 +1,27 @@
+id: nba/26-11-17/pre1h/LAL-vs-CHA
+timestamp: 2026-11-18T02:00:08.114Z
+salt: e93ed1903f06e072
+timing: pre1h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910005"
+  date: 2026-11-17
+  start: 2026-11-18T04:00Z
+  home: LOS ANGELES LAKERS
+  away: CHARLOTTE HORNETS
+  homeAbbr: LAL
+  awayAbbr: CHA
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: CHARLOTTE HORNETS
+    odds: 3.35
+    prob: 0.5061730969811677
+    stake: 0.009370674581603235
+  - market: spread
+    pick: CHARLOTTE HORNETS
+    line: 6.5
+    odds: 1.9615384615384617
+    prob: 0.7583367668377585
+    stake: 0.02231726319021098

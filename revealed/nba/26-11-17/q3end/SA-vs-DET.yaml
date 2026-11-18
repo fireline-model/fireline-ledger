@@ -1,0 +1,15 @@
+id: nba/26-11-17/q3end/SA-vs-DET
+timestamp: 2026-11-18T02:51:42.728Z
+salt: ef08dda034b5bf74
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910004"
+  date: 2026-11-17
+  start: 2026-11-18T01:00Z
+  home: SAN ANTONIO SPURS
+  away: DETROIT PISTONS
+  homeAbbr: SA
+  awayAbbr: DET
+  note: ml no market; hc no market

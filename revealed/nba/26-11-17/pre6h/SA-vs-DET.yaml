@@ -1,0 +1,22 @@
+id: nba/26-11-17/pre6h/SA-vs-DET
+timestamp: 2026-11-17T19:01:05.801Z
+salt: 0a650a49f371a52e
+timing: pre6h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910004"
+  date: 2026-11-17
+  start: 2026-11-18T01:00Z
+  home: SAN ANTONIO SPURS
+  away: DETROIT PISTONS
+  homeAbbr: SA
+  awayAbbr: DET
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: DETROIT PISTONS
+    line: 9.5
+    odds: 1.9523809523809523
+    prob: 0.561902705720079
+    stake: 0.006368784170385132

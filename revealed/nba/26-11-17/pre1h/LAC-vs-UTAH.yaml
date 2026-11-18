@@ -1,0 +1,27 @@
+id: nba/26-11-17/pre1h/LAC-vs-UTAH
+timestamp: 2026-11-18T01:30:01.928Z
+salt: d8a1478cec1b28bc
+timing: pre1h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910006"
+  date: 2026-11-17
+  start: 2026-11-18T03:30Z
+  home: LA CLIPPERS
+  away: UTAH JAZZ
+  homeAbbr: LAC
+  awayAbbr: UTAH
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: LA CLIPPERS
+    odds: 1.4366812227074237
+    prob: 0.7536799314280587
+    stake: 0.0007116140930879711
+  - market: spread
+    pick: LA CLIPPERS
+    line: -5.5
+    odds: 1.8547008547008548
+    prob: 0.623980811547703
+    stake: 0.011138821806806596

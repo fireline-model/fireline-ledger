@@ -1,0 +1,15 @@
+id: nba/26-11-17/q1end/LAC-vs-UTAH
+timestamp: 2026-11-18T04:00:26.647Z
+salt: 7d094fb5dbdb6bf4
+timing: q1end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910006"
+  date: 2026-11-17
+  start: 2026-11-18T03:30Z
+  home: LA CLIPPERS
+  away: UTAH JAZZ
+  homeAbbr: LAC
+  awayAbbr: UTAH
+  note: ml no market; hc no market
