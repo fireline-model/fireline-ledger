@@ -1,0 +1,15 @@
+id: nba/26-11-18/q3end/SAC-vs-PHX
+timestamp: 2026-11-19T04:41:54.904Z
+salt: a253b9425e831156
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910018"
+  date: 2026-11-18
+  start: 2026-11-19T03:00Z
+  home: SACRAMENTO KINGS
+  away: PHOENIX SUNS
+  homeAbbr: SAC
+  awayAbbr: PHX
+  note: ml no market; hc no market

@@ -1,0 +1,22 @@
+id: nba/26-11-18/tipoff/TOR-vs-WSH
+timestamp: 2026-11-19T00:42:15.235Z
+salt: 538b94cc74625701
+timing: tipoff
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910012"
+  date: 2026-11-18
+  start: 2026-11-19T00:30Z
+  home: TORONTO RAPTORS
+  away: WASHINGTON WIZARDS
+  homeAbbr: TOR
+  awayAbbr: WSH
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: TORONTO RAPTORS
+    line: -4.5
+    odds: 1.9523809523809523
+    prob: 0.7084090073137496
+    stake: 0.025139904062074156

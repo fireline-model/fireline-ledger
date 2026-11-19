@@ -1,0 +1,15 @@
+id: nba/26-11-18/q3end/DAL-vs-GS
+timestamp: 2026-11-19T02:50:27.566Z
+salt: 05671de17a421a5a
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910016"
+  date: 2026-11-18
+  start: 2026-11-19T01:00Z
+  home: DALLAS MAVERICKS
+  away: GOLDEN STATE WARRIORS
+  homeAbbr: DAL
+  awayAbbr: GS
+  note: ml no market; hc no market

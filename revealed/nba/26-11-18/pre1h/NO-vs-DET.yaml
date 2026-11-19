@@ -1,0 +1,27 @@
+id: nba/26-11-18/pre1h/NO-vs-DET
+timestamp: 2026-11-18T23:01:05.191Z
+salt: b73e7064436d3035
+timing: pre1h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910013"
+  date: 2026-11-18
+  start: 2026-11-19T01:00Z
+  home: NEW ORLEANS PELICANS
+  away: DETROIT PISTONS
+  homeAbbr: NO
+  awayAbbr: DET
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: DETROIT PISTONS
+    odds: 1.5405405405405406
+    prob: 0.7050281045648964
+    stake: 0.0005726964714784023
+  - market: spread
+    pick: DETROIT PISTONS
+    line: -4.5
+    odds: 1.9090909090909092
+    prob: 0.5979120524223103
+    stake: 0.009385434654143767

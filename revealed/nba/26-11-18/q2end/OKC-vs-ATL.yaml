@@ -1,0 +1,22 @@
+id: nba/26-11-18/q2end/OKC-vs-ATL
+timestamp: 2026-11-19T02:00:22.411Z
+salt: e51b2f5e548e30a7
+timing: q2end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910014"
+  date: 2026-11-18
+  start: 2026-11-19T01:00Z
+  home: OKLAHOMA CITY THUNDER
+  away: ATLANTA HAWKS
+  homeAbbr: OKC
+  awayAbbr: ATL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: OKLAHOMA CITY THUNDER
+    line: 3.5
+    odds: 1.8695652173913042
+    prob: 0.5509828802961119
+    stake: 0.0021633245397900203

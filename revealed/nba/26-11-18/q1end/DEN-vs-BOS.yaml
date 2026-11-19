@@ -1,0 +1,21 @@
+id: nba/26-11-18/q1end/DEN-vs-BOS
+timestamp: 2026-11-19T03:10:41.434Z
+salt: 1e06906ae8e1b48b
+timing: q1end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910015"
+  date: 2026-11-18
+  start: 2026-11-19T02:30Z
+  home: DENVER NUGGETS
+  away: BOSTON CELTICS
+  homeAbbr: DEN
+  awayAbbr: BOS
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: BOSTON CELTICS
+    odds: 1.5882352941176472
+    prob: 0.6380332214951026
+    stake: 0.0014181061272985627

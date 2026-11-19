@@ -1,0 +1,22 @@
+id: nba/26-11-18/tipoff/CLE-vs-MEM
+timestamp: 2026-11-19T00:11:36.324Z
+salt: 4bc37f096e14e91c
+timing: tipoff
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910007"
+  date: 2026-11-18
+  start: 2026-11-19T00:00Z
+  home: CLEVELAND CAVALIERS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: CLE
+  awayAbbr: MEM
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: MEMPHIS GRIZZLIES
+    line: 4.5
+    odds: 1.9345794392523366
+    prob: 0.5918421200777422
+    stake: 0.009694574285057895

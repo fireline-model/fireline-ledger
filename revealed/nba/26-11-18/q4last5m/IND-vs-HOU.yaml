@@ -1,0 +1,15 @@
+id: nba/26-11-18/q4last5m/IND-vs-HOU
+timestamp: 2026-11-19T02:12:22.359Z
+salt: 46b7e2120a21fab6
+timing: q4last5m
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910008"
+  date: 2026-11-18
+  start: 2026-11-19T00:00Z
+  home: INDIANA PACERS
+  away: HOUSTON ROCKETS
+  homeAbbr: IND
+  awayAbbr: HOU
+  note: ml no market; hc no market

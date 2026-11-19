@@ -1,0 +1,27 @@
+id: nba/26-11-18/pre3h/MIA-vs-MIL
+timestamp: 2026-11-18T19:33:03.277Z
+salt: 76d757709a739642
+timing: pre3h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910009"
+  date: 2026-11-18
+  start: 2026-11-19T00:00Z
+  home: MIAMI HEAT
+  away: MILWAUKEE BUCKS
+  homeAbbr: MIA
+  awayAbbr: MIL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: MILWAUKEE BUCKS
+    odds: 5.87
+    prob: 0.22385225241252893
+    stake: 0.001000987991267527
+  - market: spread
+    pick: MILWAUKEE BUCKS
+    line: 11.5
+    odds: 1.9523809523809523
+    prob: 0.607757841499954
+    stake: 0.010210884487068623

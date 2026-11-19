@@ -1,0 +1,15 @@
+id: nba/26-11-18/q1end/TOR-vs-WSH
+timestamp: 2026-11-19T01:06:48.893Z
+salt: dca88f1df1385f6a
+timing: q1end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910012"
+  date: 2026-11-18
+  start: 2026-11-19T00:30Z
+  home: TORONTO RAPTORS
+  away: WASHINGTON WIZARDS
+  homeAbbr: TOR
+  awayAbbr: WSH
+  note: ml no market; hc no market

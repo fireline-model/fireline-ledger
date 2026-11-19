@@ -1,0 +1,15 @@
+id: nba/26-11-18/q3end/BKN-vs-CHI
+timestamp: 2026-11-19T02:14:35.693Z
+salt: 883d247e88eb5184
+timing: q3end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910011"
+  date: 2026-11-18
+  start: 2026-11-19T00:30Z
+  home: BROOKLYN NETS
+  away: CHICAGO BULLS
+  homeAbbr: BKN
+  awayAbbr: CHI
+  note: ml no market; hc no market

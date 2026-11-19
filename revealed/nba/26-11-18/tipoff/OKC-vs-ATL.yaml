@@ -1,0 +1,15 @@
+id: nba/26-11-18/tipoff/OKC-vs-ATL
+timestamp: 2026-11-19T01:10:59.111Z
+salt: 7831296cd420dc8c
+timing: tipoff
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910014"
+  date: 2026-11-18
+  start: 2026-11-19T01:00Z
+  home: OKLAHOMA CITY THUNDER
+  away: ATLANTA HAWKS
+  homeAbbr: OKC
+  awayAbbr: ATL
+  note: ml no bet; hc no bet

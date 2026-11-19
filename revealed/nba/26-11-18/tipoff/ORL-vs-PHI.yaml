@@ -1,0 +1,22 @@
+id: nba/26-11-18/tipoff/ORL-vs-PHI
+timestamp: 2026-11-19T00:11:43.324Z
+salt: 348ce5e2d1574e51
+timing: tipoff
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910010"
+  date: 2026-11-18
+  start: 2026-11-19T00:00Z
+  home: ORLANDO MAGIC
+  away: PHILADELPHIA 76ERS
+  homeAbbr: ORL
+  awayAbbr: PHI
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: PHILADELPHIA 76ERS
+    line: 4.5
+    odds: 1.8695652173913042
+    prob: 0.7666756525591002
+    stake: 0.031147040812629093

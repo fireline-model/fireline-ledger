@@ -1,0 +1,27 @@
+id: nba/26-11-18/q2end/LAL-vs-UTAH
+timestamp: 2026-11-19T04:07:32.982Z
+salt: b6d497beb02a3ab0
+timing: q2end
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910017"
+  date: 2026-11-18
+  start: 2026-11-19T03:00Z
+  home: LOS ANGELES LAKERS
+  away: UTAH JAZZ
+  homeAbbr: LAL
+  awayAbbr: UTAH
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: UTAH JAZZ
+    odds: 3.85
+    prob: 0.38594442989287203
+    stake: 0.0081703033088638
+  - market: spread
+    pick: UTAH JAZZ
+    line: 8.5
+    odds: 1.8
+    prob: 0.6766111703093471
+    stake: 0.008853142515888139

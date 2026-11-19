@@ -1,0 +1,22 @@
+id: nba/26-11-18/tipoff/DEN-vs-BOS
+timestamp: 2026-11-19T02:47:45.387Z
+salt: 8ca670150c54aee0
+timing: tipoff
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910015"
+  date: 2026-11-18
+  start: 2026-11-19T02:30Z
+  home: DENVER NUGGETS
+  away: BOSTON CELTICS
+  homeAbbr: DEN
+  awayAbbr: BOS
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: DENVER NUGGETS
+    line: 2.5
+    odds: 1.8771929824561404
+    prob: 0.6813689161041077
+    stake: 0.019883092528924395
