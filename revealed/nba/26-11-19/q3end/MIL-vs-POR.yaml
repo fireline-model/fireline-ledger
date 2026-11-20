@@ -1,0 +1,15 @@
+id: nba/26-11-19/q3end/MIL-vs-POR
+timestamp: 2026-11-20T02:55:30.606Z
+salt: 622c9469b8752c29
+timing: q3end
+model: graphite-26-11-19
+match:
+  league: nba
+  gameId: "401910020"
+  date: 2026-11-19
+  start: 2026-11-20T01:00Z
+  home: MILWAUKEE BUCKS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: MIL
+  awayAbbr: POR
+  note: ml no market; hc no market

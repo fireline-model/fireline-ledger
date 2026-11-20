@@ -1,0 +1,22 @@
+id: nba/26-11-19/pre3h/SA-vs-LAC
+timestamp: 2026-11-19T20:34:06.078Z
+salt: b058d9db6d29a4b3
+timing: pre3h
+model: graphite-26-11-16
+match:
+  league: nba
+  gameId: "401910022"
+  date: 2026-11-19
+  start: 2026-11-20T01:00Z
+  home: SAN ANTONIO SPURS
+  away: LA CLIPPERS
+  homeAbbr: SA
+  awayAbbr: LAC
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: LA CLIPPERS
+    line: 15.5
+    odds: 1.9090909090909092
+    prob: 0.6002375650005884
+    stake: 0.007748358335456515

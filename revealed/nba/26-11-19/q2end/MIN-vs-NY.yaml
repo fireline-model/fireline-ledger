@@ -1,0 +1,21 @@
+id: nba/26-11-19/q2end/MIN-vs-NY
+timestamp: 2026-11-20T02:01:10.796Z
+salt: c52cf91dda811e52
+timing: q2end
+model: graphite-26-11-19
+match:
+  league: nba
+  gameId: "401910021"
+  date: 2026-11-19
+  start: 2026-11-20T01:00Z
+  home: MINNESOTA TIMBERWOLVES
+  away: NEW YORK KNICKS
+  homeAbbr: MIN
+  awayAbbr: NY
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: NEW YORK KNICKS
+    odds: 1.2352941176470589
+    prob: 0.8138834773241169
+    stake: 0.0014305159969758734

@@ -1,0 +1,15 @@
+id: nba/26-11-19/q2end/MEM-vs-GS
+timestamp: 2026-11-20T02:04:31.098Z
+salt: bfd73dcab999795c
+timing: q2end
+model: graphite-26-11-19
+match:
+  league: nba
+  gameId: "401910019"
+  date: 2026-11-19
+  start: 2026-11-20T01:00Z
+  home: MEMPHIS GRIZZLIES
+  away: GOLDEN STATE WARRIORS
+  homeAbbr: MEM
+  awayAbbr: GS
+  note: ml no bet; hc no bet

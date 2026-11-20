@@ -1,0 +1,27 @@
+id: nba/26-11-19/pre1h/MEM-vs-GS
+timestamp: 2026-11-19T23:01:12.698Z
+salt: 93fec46df614370b
+timing: pre1h
+model: graphite-26-11-19
+match:
+  league: nba
+  gameId: "401910019"
+  date: 2026-11-19
+  start: 2026-11-20T01:00Z
+  home: MEMPHIS GRIZZLIES
+  away: GOLDEN STATE WARRIORS
+  homeAbbr: MEM
+  awayAbbr: GS
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: GOLDEN STATE WARRIORS
+    odds: 2.79
+    prob: 0.4866195195033316
+    stake: 0.010020690796724996
+  - market: spread
+    pick: GOLDEN STATE WARRIORS
+    line: 5.5
+    odds: 1.925925925925926
+    prob: 0.6330100950689319
+    stake: 0.004770621562236162
