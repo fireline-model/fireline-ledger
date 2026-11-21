@@ -1,0 +1,21 @@
+id: nba/26-11-20/pre3h/OKC-vs-NO
+timestamp: 2026-11-20T20:31:00.652Z
+salt: 8dabed77c21ad909
+timing: pre3h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909310"
+  date: 2026-11-20
+  start: 2026-11-21T01:00Z
+  home: OKLAHOMA CITY THUNDER
+  away: NEW ORLEANS PELICANS
+  homeAbbr: OKC
+  awayAbbr: NO
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: NEW ORLEANS PELICANS
+    odds: 5.43
+    prob: 0.2172148766491967
+    stake: 0.0011346416142666799

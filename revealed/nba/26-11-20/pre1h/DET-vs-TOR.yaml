@@ -1,0 +1,21 @@
+id: nba/26-11-20/pre1h/DET-vs-TOR
+timestamp: 2026-11-20T22:31:15.485Z
+salt: 7b144f2aa4e66f2a
+timing: pre1h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909308"
+  date: 2026-11-20
+  start: 2026-11-21T00:30Z
+  home: DETROIT PISTONS
+  away: TORONTO RAPTORS
+  homeAbbr: DET
+  awayAbbr: TOR
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: DETROIT PISTONS
+    odds: 1.378787878787879
+    prob: 0.7297784405363119
+    stake: 0.0010245952220109696

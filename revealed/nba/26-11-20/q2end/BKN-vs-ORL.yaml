@@ -1,0 +1,15 @@
+id: nba/26-11-20/q2end/BKN-vs-ORL
+timestamp: 2026-11-21T01:40:47.742Z
+salt: 879b3d189c15e97d
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909306"
+  date: 2026-11-20
+  start: 2026-11-21T00:30Z
+  home: BROOKLYN NETS
+  away: ORLANDO MAGIC
+  homeAbbr: BKN
+  awayAbbr: ORL
+  note: ml no market; hc no market

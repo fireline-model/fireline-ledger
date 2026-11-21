@@ -1,0 +1,27 @@
+id: nba/26-11-20/pre6h/LAL-vs-SAC
+timestamp: 2026-11-20T21:00:10.052Z
+salt: 1f05afcac7fa1adf
+timing: pre6h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909313"
+  date: 2026-11-20
+  start: 2026-11-21T03:00Z
+  home: LOS ANGELES LAKERS
+  away: SACRAMENTO KINGS
+  homeAbbr: LAL
+  awayAbbr: SAC
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: SACRAMENTO KINGS
+    odds: 7
+    prob: 0.24045821657556954
+    stake: 0.0030801255845207525
+  - market: spread
+    pick: SACRAMENTO KINGS
+    line: 14.5
+    odds: 1.8695652173913042
+    prob: 0.6760637183960831
+    stake: 0.013863523506065232

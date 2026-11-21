@@ -1,0 +1,21 @@
+id: nba/26-11-20/pre1h/DEN-vs-HOU
+timestamp: 2026-11-21T01:00:12.953Z
+salt: 7574a6b0acd86f70
+timing: pre1h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909312"
+  date: 2026-11-20
+  start: 2026-11-21T03:00Z
+  home: DENVER NUGGETS
+  away: HOUSTON ROCKETS
+  homeAbbr: DEN
+  awayAbbr: HOU
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: DENVER NUGGETS
+    odds: 1.8
+    prob: 0.7237113487014569
+    stake: 0.023646908411142382

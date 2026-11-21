@@ -1,0 +1,27 @@
+id: nba/26-11-20/q3end/ATL-vs-CHA
+timestamp: 2026-11-21T01:40:44.360Z
+salt: 2bb54c88f5675e9c
+timing: q3end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909305"
+  date: 2026-11-20
+  start: 2026-11-21T00:00Z
+  home: ATLANTA HAWKS
+  away: CHARLOTTE HORNETS
+  homeAbbr: ATL
+  awayAbbr: CHA
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: ATLANTA HAWKS
+    odds: 1.1818181818181819
+    prob: 0.8936264865090664
+    stake: 0.003089292898646839
+  - market: spread
+    pick: ATLANTA HAWKS
+    line: -7.5
+    odds: 1.8333333333333335
+    prob: 0.6681490529977042
+    stake: 0.016196467245661383

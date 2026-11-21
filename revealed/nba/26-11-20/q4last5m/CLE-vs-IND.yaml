@@ -1,0 +1,22 @@
+id: nba/26-11-20/q4last5m/CLE-vs-IND
+timestamp: 2026-11-21T02:43:32.056Z
+salt: acfca62b11c6d683
+timing: q4last5m
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909307"
+  date: 2026-11-20
+  start: 2026-11-21T00:30Z
+  home: CLEVELAND CAVALIERS
+  away: INDIANA PACERS
+  homeAbbr: CLE
+  awayAbbr: IND
+  note: ml no market; hc bet
+bets:
+  - market: spread
+    pick: INDIANA PACERS
+    line: 17.5
+    odds: 1.8695652173913042
+    prob: 0.6990008782813046
+    stake: 0.022053243019050314

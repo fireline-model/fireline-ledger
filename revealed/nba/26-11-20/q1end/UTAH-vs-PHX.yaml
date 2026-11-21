@@ -1,0 +1,15 @@
+id: nba/26-11-20/q1end/UTAH-vs-PHX
+timestamp: 2026-11-21T03:06:46.999Z
+salt: 25232140992253f0
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909311"
+  date: 2026-11-20
+  start: 2026-11-21T02:30Z
+  home: UTAH JAZZ
+  away: PHOENIX SUNS
+  homeAbbr: UTAH
+  awayAbbr: PHX
+  note: ml no market; hc no market

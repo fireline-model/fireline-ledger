@@ -1,0 +1,15 @@
+id: nba/26-11-20/q2end/CHI-vs-WSH
+timestamp: 2026-11-21T02:00:18.260Z
+salt: dbe379d0cc84f4b4
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909309"
+  date: 2026-11-20
+  start: 2026-11-21T01:00Z
+  home: CHICAGO BULLS
+  away: WASHINGTON WIZARDS
+  homeAbbr: CHI
+  awayAbbr: WSH
+  note: ml no market; hc no market

@@ -1,0 +1,15 @@
+id: nba/26-11-20/q4last5m/DET-vs-TOR
+timestamp: 2026-11-21T02:45:12.917Z
+salt: bae1e069d5de7ab4
+timing: q4last5m
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909308"
+  date: 2026-11-20
+  start: 2026-11-21T00:30Z
+  home: DETROIT PISTONS
+  away: TORONTO RAPTORS
+  homeAbbr: DET
+  awayAbbr: TOR
+  note: ml no bet; hc no market

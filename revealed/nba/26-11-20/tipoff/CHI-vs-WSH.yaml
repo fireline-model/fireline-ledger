@@ -1,0 +1,21 @@
+id: nba/26-11-20/tipoff/CHI-vs-WSH
+timestamp: 2026-11-21T01:00:04.806Z
+salt: caeb13a133600472
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401909309"
+  date: 2026-11-20
+  start: 2026-11-21T01:00Z
+  home: CHICAGO BULLS
+  away: WASHINGTON WIZARDS
+  homeAbbr: CHI
+  awayAbbr: WSH
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: CHICAGO BULLS
+    odds: 1.7692307692307692
+    prob: 0.6569227747528774
+    stake: 0.013182648870726132
