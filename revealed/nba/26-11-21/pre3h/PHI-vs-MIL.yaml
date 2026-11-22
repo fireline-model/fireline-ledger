@@ -1,0 +1,27 @@
+id: nba/26-11-21/pre3h/PHI-vs-MIL
+timestamp: 2026-11-21T13:32:01.509Z
+salt: 6583eabc6a5996b1
+timing: pre3h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910023"
+  date: 2026-11-21
+  start: 2026-11-21T18:00Z
+  home: PHILADELPHIA 76ERS
+  away: MILWAUKEE BUCKS
+  homeAbbr: PHI
+  awayAbbr: MIL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: MILWAUKEE BUCKS
+    odds: 5.58
+    prob: 0.23454055554606634
+    stake: 0.0017662969668809753
+  - market: spread
+    pick: MILWAUKEE BUCKS
+    line: 11.5
+    odds: 1.9523809523809523
+    prob: 0.5771603044954832
+    stake: 0.005189729734003239

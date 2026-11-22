@@ -1,0 +1,21 @@
+id: nba/26-11-21/tipoff/DAL-vs-LAC
+timestamp: 2026-11-22T01:00:01.667Z
+salt: e9e50c167f9f96b4
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910025"
+  date: 2026-11-21
+  start: 2026-11-22T01:00Z
+  home: DALLAS MAVERICKS
+  away: LA CLIPPERS
+  homeAbbr: DAL
+  awayAbbr: LAC
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: DALLAS MAVERICKS
+    odds: 1.5235602094240837
+    prob: 0.6601409715012686
+    stake: 0.0006881391917932363

@@ -1,0 +1,22 @@
+id: nba/26-11-21/tipoff/NY-vs-POR
+timestamp: 2026-11-22T00:30:02.786Z
+salt: 522c041fe84cc916
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910024"
+  date: 2026-11-21
+  start: 2026-11-22T00:30Z
+  home: NEW YORK KNICKS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: NY
+  awayAbbr: POR
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: 1.5
+    odds: 1.9090909090909092
+    prob: 0.5745194104517432
+    stake: 0.00665567262179129

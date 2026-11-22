@@ -1,0 +1,15 @@
+id: nba/26-11-21/q2end/DAL-vs-LAC
+timestamp: 2026-11-22T02:02:34.951Z
+salt: 5ffa16670656c6af
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910025"
+  date: 2026-11-21
+  start: 2026-11-22T01:00Z
+  home: DALLAS MAVERICKS
+  away: LA CLIPPERS
+  homeAbbr: DAL
+  awayAbbr: LAC
+  note: ml no market; hc no market

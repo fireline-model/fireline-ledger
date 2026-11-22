@@ -1,0 +1,15 @@
+id: nba/26-11-21/pre1h/NY-vs-POR
+timestamp: 2026-11-21T22:31:00.417Z
+salt: 061239343e4c5180
+timing: pre1h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910024"
+  date: 2026-11-21
+  start: 2026-11-22T00:30Z
+  home: NEW YORK KNICKS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: NY
+  awayAbbr: POR
+  note: ml no bet; hc no bet

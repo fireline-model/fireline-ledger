@@ -1,0 +1,21 @@
+id: nba/26-11-21/tipoff/PHI-vs-MIL
+timestamp: 2026-11-21T18:00:03.588Z
+salt: 0c3ff7a86476d891
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910023"
+  date: 2026-11-21
+  start: 2026-11-21T18:00Z
+  home: PHILADELPHIA 76ERS
+  away: MILWAUKEE BUCKS
+  homeAbbr: PHI
+  awayAbbr: MIL
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: MILWAUKEE BUCKS
+    odds: 5.55
+    prob: 0.22280481378371286
+    stake: 0.0015772157273056993

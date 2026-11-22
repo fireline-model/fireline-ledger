@@ -1,0 +1,15 @@
+id: nba/26-11-21/q1end/SA-vs-NO
+timestamp: 2026-11-22T01:33:11.443Z
+salt: 14d4ccd8b963a92c
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910027"
+  date: 2026-11-21
+  start: 2026-11-22T01:00Z
+  home: SAN ANTONIO SPURS
+  away: NEW ORLEANS PELICANS
+  homeAbbr: SA
+  awayAbbr: NO
+  note: ml no bet; hc no market

@@ -1,0 +1,21 @@
+id: nba/26-11-21/q3end/SAC-vs-BOS
+timestamp: 2026-11-22T04:52:29.075Z
+salt: e373001135354f18
+timing: q3end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910028"
+  date: 2026-11-21
+  start: 2026-11-22T03:00Z
+  home: SACRAMENTO KINGS
+  away: BOSTON CELTICS
+  homeAbbr: SAC
+  awayAbbr: BOS
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: SACRAMENTO KINGS
+    odds: 1.9523809523809523
+    prob: 0.5798315490698562
+    stake: 0.008665917224575324

@@ -1,0 +1,15 @@
+id: nba/26-11-21/pre3h/DAL-vs-LAC
+timestamp: 2026-11-21T20:30:00.451Z
+salt: 9990832bf4efa3c6
+timing: pre3h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910025"
+  date: 2026-11-21
+  start: 2026-11-22T01:00Z
+  home: DALLAS MAVERICKS
+  away: LA CLIPPERS
+  homeAbbr: DAL
+  awayAbbr: LAC
+  note: ml no bet; hc no bet

@@ -1,0 +1,15 @@
+id: nba/26-11-21/q3end/PHI-vs-MIL
+timestamp: 2026-11-21T19:44:17.101Z
+salt: 2c8ff0c2e0d98c62
+timing: q3end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910023"
+  date: 2026-11-21
+  start: 2026-11-21T18:00Z
+  home: PHILADELPHIA 76ERS
+  away: MILWAUKEE BUCKS
+  homeAbbr: PHI
+  awayAbbr: MIL
+  note: ml no market; hc no market

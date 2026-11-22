@@ -1,0 +1,21 @@
+id: nba/26-11-21/pre3h/MIN-vs-MEM
+timestamp: 2026-11-21T20:30:04.748Z
+salt: 99aead85bdca50ff
+timing: pre3h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910026"
+  date: 2026-11-21
+  start: 2026-11-22T01:00Z
+  home: MINNESOTA TIMBERWOLVES
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: MIN
+  awayAbbr: MEM
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: MINNESOTA TIMBERWOLVES
+    odds: 1.4219409282700421
+    prob: 0.740393457845797
+    stake: 0.007820372058771006

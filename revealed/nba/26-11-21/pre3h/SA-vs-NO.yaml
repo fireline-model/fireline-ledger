@@ -1,0 +1,27 @@
+id: nba/26-11-21/pre3h/SA-vs-NO
+timestamp: 2026-11-21T20:30:08.575Z
+salt: 907175a29927be5a
+timing: pre3h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910027"
+  date: 2026-11-21
+  start: 2026-11-22T01:00Z
+  home: SAN ANTONIO SPURS
+  away: NEW ORLEANS PELICANS
+  homeAbbr: SA
+  awayAbbr: NO
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: NEW ORLEANS PELICANS
+    odds: 10.5
+    prob: 0.21672057334419725
+    stake: 0.002755059084843909
+  - market: spread
+    pick: NEW ORLEANS PELICANS
+    line: 18.5
+    odds: 1.9433962264150944
+    prob: 0.7345849045146827
+    stake: 0.022133931883355613
