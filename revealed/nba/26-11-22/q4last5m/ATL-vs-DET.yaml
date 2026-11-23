@@ -1,0 +1,15 @@
+id: nba/26-11-22/q4last5m/ATL-vs-DET
+timestamp: 2026-11-22T22:41:32.124Z
+salt: 3589999fc1b29394
+timing: q4last5m
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910029"
+  date: 2026-11-22
+  start: 2026-11-22T20:30Z
+  home: ATLANTA HAWKS
+  away: DETROIT PISTONS
+  homeAbbr: ATL
+  awayAbbr: DET
+  note: ml no market; hc no market

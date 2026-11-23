@@ -1,0 +1,22 @@
+id: nba/26-11-22/tipoff/GS-vs-BOS
+timestamp: 2026-11-23T01:30:01.464Z
+salt: b4c67a7682e06927
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910035"
+  date: 2026-11-22
+  start: 2026-11-23T01:30Z
+  home: GOLDEN STATE WARRIORS
+  away: BOSTON CELTICS
+  homeAbbr: GS
+  awayAbbr: BOS
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: BOSTON CELTICS
+    line: -8.5
+    odds: 1.9433962264150944
+    prob: 0.7271884189619948
+    stake: 0.027375508941356836

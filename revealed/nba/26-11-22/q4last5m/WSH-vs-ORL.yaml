@@ -1,0 +1,27 @@
+id: nba/26-11-22/q4last5m/WSH-vs-ORL
+timestamp: 2026-11-23T02:04:30.651Z
+salt: 792763ae4992cbe7
+timing: q4last5m
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910031"
+  date: 2026-11-22
+  start: 2026-11-23T00:00Z
+  home: WASHINGTON WIZARDS
+  away: ORLANDO MAGIC
+  homeAbbr: WSH
+  awayAbbr: ORL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: WASHINGTON WIZARDS
+    odds: 1.005
+    prob: 0.999203891764585
+    stake: 0.045619901508582174
+  - market: spread
+    pick: WASHINGTON WIZARDS
+    line: -17.5
+    odds: 1.8333333333333335
+    prob: 0.5974742414041332
+    stake: 0.00687898878401683

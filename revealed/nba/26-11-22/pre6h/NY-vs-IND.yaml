@@ -1,0 +1,15 @@
+id: nba/26-11-22/pre6h/NY-vs-IND
+timestamp: 2026-11-22T19:00:59.919Z
+salt: 7ced95e6d88954cf
+timing: pre6h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910034"
+  date: 2026-11-22
+  start: 2026-11-23T01:00Z
+  home: NEW YORK KNICKS
+  away: INDIANA PACERS
+  homeAbbr: NY
+  awayAbbr: IND
+  note: ml no bet; hc no bet

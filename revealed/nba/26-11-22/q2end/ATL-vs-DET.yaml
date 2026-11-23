@@ -1,0 +1,21 @@
+id: nba/26-11-22/q2end/ATL-vs-DET
+timestamp: 2026-11-22T21:35:56.229Z
+salt: 96c54927e98b0146
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910029"
+  date: 2026-11-22
+  start: 2026-11-22T20:30Z
+  home: ATLANTA HAWKS
+  away: DETROIT PISTONS
+  homeAbbr: ATL
+  awayAbbr: DET
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: DETROIT PISTONS
+    odds: 1.6666666666666665
+    prob: 0.6095366623087617
+    stake: 0.0014901034857440145

@@ -1,0 +1,22 @@
+id: nba/26-11-22/q1end/MIA-vs-OKC
+timestamp: 2026-11-22T23:32:23.465Z
+salt: 32c618a6c354c653
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910030"
+  date: 2026-11-22
+  start: 2026-11-22T23:00Z
+  home: MIAMI HEAT
+  away: OKLAHOMA CITY THUNDER
+  homeAbbr: MIA
+  awayAbbr: OKC
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: OKLAHOMA CITY THUNDER
+    line: 7.5
+    odds: 1.8695652173913042
+    prob: 0.6226604127891522
+    stake: 0.011794992968542325

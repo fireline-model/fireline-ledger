@@ -1,0 +1,15 @@
+id: nba/26-11-22/q3end/UTAH-vs-DAL
+timestamp: 2026-11-23T01:43:58.686Z
+salt: 5db8e307002a2de5
+timing: q3end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910033"
+  date: 2026-11-22
+  start: 2026-11-23T00:00Z
+  home: UTAH JAZZ
+  away: DALLAS MAVERICKS
+  homeAbbr: UTAH
+  awayAbbr: DAL
+  note: ml no bet; hc no bet

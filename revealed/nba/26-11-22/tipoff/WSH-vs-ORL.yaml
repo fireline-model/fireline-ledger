@@ -1,0 +1,27 @@
+id: nba/26-11-22/tipoff/WSH-vs-ORL
+timestamp: 2026-11-23T00:00:12.431Z
+salt: 832fb63a74eb2a30
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910031"
+  date: 2026-11-22
+  start: 2026-11-23T00:00Z
+  home: WASHINGTON WIZARDS
+  away: ORLANDO MAGIC
+  homeAbbr: WSH
+  awayAbbr: ORL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: ORLANDO MAGIC
+    odds: 1.510204081632653
+    prob: 0.7154091117192836
+    stake: 0.008331181442846117
+  - market: spread
+    pick: ORLANDO MAGIC
+    line: -4.5
+    odds: 1.8928571428571428
+    prob: 0.5756994666824085
+    stake: 0.0015195042252213423

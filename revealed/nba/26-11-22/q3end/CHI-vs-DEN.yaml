@@ -1,0 +1,22 @@
+id: nba/26-11-22/q3end/CHI-vs-DEN
+timestamp: 2026-11-23T01:41:45.823Z
+salt: a11aca5b5dc84df8
+timing: q3end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910032"
+  date: 2026-11-22
+  start: 2026-11-23T00:00Z
+  home: CHICAGO BULLS
+  away: DENVER NUGGETS
+  homeAbbr: CHI
+  awayAbbr: DEN
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: CHICAGO BULLS
+    line: 11.5
+    odds: 1.9523809523809523
+    prob: 0.598259546177243
+    stake: 0.011027004353959261

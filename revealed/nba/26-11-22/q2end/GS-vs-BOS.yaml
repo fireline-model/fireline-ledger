@@ -1,0 +1,27 @@
+id: nba/26-11-22/q2end/GS-vs-BOS
+timestamp: 2026-11-23T02:30:49.542Z
+salt: b48dbfb9d33e35f7
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910035"
+  date: 2026-11-22
+  start: 2026-11-23T01:30Z
+  home: GOLDEN STATE WARRIORS
+  away: BOSTON CELTICS
+  homeAbbr: GS
+  awayAbbr: BOS
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: BOSTON CELTICS
+    odds: 1.6896551724137931
+    prob: 0.7462167563071593
+    stake: 0.022268755908969623
+  - market: spread
+    pick: BOSTON CELTICS
+    line: -2.5
+    odds: 1.8695652173913042
+    prob: 0.6765180427965132
+    stake: 0.0013706849005641602
