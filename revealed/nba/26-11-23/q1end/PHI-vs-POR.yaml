@@ -1,0 +1,15 @@
+id: nba/26-11-23/q1end/PHI-vs-POR
+timestamp: 2026-11-24T00:35:55.359Z
+salt: 2e97b7760bc4cb1e
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910037"
+  date: 2026-11-23
+  start: 2026-11-24T00:00Z
+  home: PHILADELPHIA 76ERS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: PHI
+  awayAbbr: POR
+  note: ml no market; hc no market

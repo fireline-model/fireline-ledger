@@ -1,0 +1,21 @@
+id: nba/26-11-23/q1end/IND-vs-OKC
+timestamp: 2026-11-24T01:02:24.834Z
+salt: b374db33a143d151
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910038"
+  date: 2026-11-23
+  start: 2026-11-24T00:30Z
+  home: INDIANA PACERS
+  away: OKLAHOMA CITY THUNDER
+  homeAbbr: IND
+  awayAbbr: OKC
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: INDIANA PACERS
+    odds: 2.35
+    prob: 0.5560342478808527
+    stake: 0.014198170487037212

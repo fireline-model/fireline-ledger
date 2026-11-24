@@ -1,0 +1,27 @@
+id: nba/26-11-23/tipoff/HOU-vs-LAC
+timestamp: 2026-11-24T01:30:02.020Z
+salt: c2a4db6891592e7b
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910043"
+  date: 2026-11-23
+  start: 2026-11-24T01:30Z
+  home: HOUSTON ROCKETS
+  away: LA CLIPPERS
+  homeAbbr: HOU
+  awayAbbr: LAC
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: LA CLIPPERS
+    odds: 6.04
+    prob: 0.26387835612162047
+    stake: 0.0035172718645826895
+  - market: spread
+    pick: LA CLIPPERS
+    line: 13.5
+    odds: 1.8695652173913042
+    prob: 0.6871564300552166
+    stake: 0.015828712414893926

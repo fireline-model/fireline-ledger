@@ -1,0 +1,15 @@
+id: nba/26-11-23/q2end/HOU-vs-LAC
+timestamp: 2026-11-24T02:28:04.525Z
+salt: 7a3147b7b85e4f62
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910043"
+  date: 2026-11-23
+  start: 2026-11-24T01:30Z
+  home: HOUSTON ROCKETS
+  away: LA CLIPPERS
+  homeAbbr: HOU
+  awayAbbr: LAC
+  note: ml no market; hc no market

@@ -1,0 +1,15 @@
+id: nba/26-11-23/q4last5m/CHA-vs-MEM
+timestamp: 2026-11-24T02:16:19.015Z
+salt: 25b975e84b1ad564
+timing: q4last5m
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910036"
+  date: 2026-11-23
+  start: 2026-11-24T00:00Z
+  home: CHARLOTTE HORNETS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: CHA
+  awayAbbr: MEM
+  note: ml no bet; hc no bet

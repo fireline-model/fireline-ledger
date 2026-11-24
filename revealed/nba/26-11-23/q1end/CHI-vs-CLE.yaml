@@ -1,0 +1,27 @@
+id: nba/26-11-23/q1end/CHI-vs-CLE
+timestamp: 2026-11-24T01:35:03.753Z
+salt: 6525cd32bf217c7e
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910041"
+  date: 2026-11-23
+  start: 2026-11-24T01:00Z
+  home: CHICAGO BULLS
+  away: CLEVELAND CAVALIERS
+  homeAbbr: CHI
+  awayAbbr: CLE
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: CHICAGO BULLS
+    odds: 2.95
+    prob: 0.3691186164615475
+    stake: 0.0013078432510246478
+  - market: spread
+    pick: CHICAGO BULLS
+    line: 6.5
+    odds: 1.8695652173913042
+    prob: 0.5703418523327581
+    stake: 0.003456843156189717

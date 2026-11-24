@@ -1,0 +1,22 @@
+id: nba/26-11-23/pre6h/PHI-vs-POR
+timestamp: 2026-11-23T18:01:34.052Z
+salt: dd51f6a708543a82
+timing: pre6h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910037"
+  date: 2026-11-23
+  start: 2026-11-24T00:00Z
+  home: PHILADELPHIA 76ERS
+  away: PORTLAND TRAIL BLAZERS
+  homeAbbr: PHI
+  awayAbbr: POR
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: PORTLAND TRAIL BLAZERS
+    line: 2.5
+    odds: 1.8771929824561404
+    prob: 0.5489954950437177
+    stake: 0.0021781474620972486

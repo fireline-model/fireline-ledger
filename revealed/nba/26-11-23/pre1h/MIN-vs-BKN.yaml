@@ -1,0 +1,21 @@
+id: nba/26-11-23/pre1h/MIN-vs-BKN
+timestamp: 2026-11-23T22:32:54.967Z
+salt: ed89ae59fd72732b
+timing: pre1h
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910040"
+  date: 2026-11-23
+  start: 2026-11-24T00:30Z
+  home: MINNESOTA TIMBERWOLVES
+  away: BROOKLYN NETS
+  homeAbbr: MIN
+  awayAbbr: BKN
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: BROOKLYN NETS
+    odds: 5.13
+    prob: 0.21226244110026016
+    stake: 0.0005584669783632055

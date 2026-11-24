@@ -1,0 +1,27 @@
+id: nba/26-11-23/tipoff/NO-vs-PHX
+timestamp: 2026-11-24T01:00:08.642Z
+salt: 62f46108a49e51e1
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910042"
+  date: 2026-11-23
+  start: 2026-11-24T01:00Z
+  home: NEW ORLEANS PELICANS
+  away: PHOENIX SUNS
+  homeAbbr: NO
+  awayAbbr: PHX
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: NEW ORLEANS PELICANS
+    odds: 2.25
+    prob: 0.5625261706078872
+    stake: 0.008305804199482757
+  - market: spread
+    pick: NEW ORLEANS PELICANS
+    line: 3.5
+    odds: 1.8695652173913042
+    prob: 0.6499515521169903
+    stake: 0.007156435616237809

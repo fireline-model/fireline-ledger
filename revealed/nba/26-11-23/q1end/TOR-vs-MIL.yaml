@@ -1,0 +1,27 @@
+id: nba/26-11-23/q1end/TOR-vs-MIL
+timestamp: 2026-11-24T01:03:26.519Z
+salt: 48be2abcfec2883f
+timing: q1end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910039"
+  date: 2026-11-23
+  start: 2026-11-24T00:30Z
+  home: TORONTO RAPTORS
+  away: MILWAUKEE BUCKS
+  homeAbbr: TOR
+  awayAbbr: MIL
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: MILWAUKEE BUCKS
+    odds: 4
+    prob: 0.3920167281621383
+    stake: 0.008305106791332728
+  - market: spread
+    pick: MILWAUKEE BUCKS
+    line: 9.5
+    odds: 1.8695652173913042
+    prob: 0.6873101224770202
+    stake: 0.012177190916516846

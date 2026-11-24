@@ -1,0 +1,21 @@
+id: nba/26-11-23/q3end/CHA-vs-MEM
+timestamp: 2026-11-24T01:47:31.369Z
+salt: e3f722844e98de57
+timing: q3end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910036"
+  date: 2026-11-23
+  start: 2026-11-24T00:00Z
+  home: CHARLOTTE HORNETS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: CHA
+  awayAbbr: MEM
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: CHARLOTTE HORNETS
+    odds: 3.15
+    prob: 0.38605976935704517
+    stake: 0.0062816358568224505

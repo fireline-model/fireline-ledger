@@ -1,0 +1,15 @@
+id: nba/26-11-23/q2end/NO-vs-PHX
+timestamp: 2026-11-24T02:00:50.616Z
+salt: fd53ef086da85acb
+timing: q2end
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910042"
+  date: 2026-11-23
+  start: 2026-11-24T01:00Z
+  home: NEW ORLEANS PELICANS
+  away: PHOENIX SUNS
+  homeAbbr: NO
+  awayAbbr: PHX
+  note: ml no market; hc no market

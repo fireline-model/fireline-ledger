@@ -1,0 +1,21 @@
+id: nba/26-11-23/tipoff/CHA-vs-MEM
+timestamp: 2026-11-24T00:00:32.409Z
+salt: 04394946c0b25dda
+timing: tipoff
+model: graphite-26-11-20
+match:
+  league: nba
+  gameId: "401910036"
+  date: 2026-11-23
+  start: 2026-11-24T00:00Z
+  home: CHARLOTTE HORNETS
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: CHA
+  awayAbbr: MEM
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: CHARLOTTE HORNETS
+    odds: 2.25
+    prob: 0.7137263772651411
+    stake: 0.030294217442328374
