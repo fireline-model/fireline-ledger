@@ -1,0 +1,15 @@
+id: nba/26-11-24/q2end/WSH-vs-BOS
+timestamp: 2026-11-25T02:08:44.166Z
+salt: 84af4656cb1b16dc
+timing: q2end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909315"
+  date: 2026-11-24
+  start: 2026-11-25T01:00Z
+  home: WASHINGTON WIZARDS
+  away: BOSTON CELTICS
+  homeAbbr: WSH
+  awayAbbr: BOS
+  note: ml no bet; hc no market

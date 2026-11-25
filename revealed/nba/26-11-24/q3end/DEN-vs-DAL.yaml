@@ -1,0 +1,15 @@
+id: nba/26-11-24/q3end/DEN-vs-DAL
+timestamp: 2026-11-25T04:50:09.659Z
+salt: 34e5a03c8f58f96c
+timing: q3end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909316"
+  date: 2026-11-24
+  start: 2026-11-25T03:00Z
+  home: DENVER NUGGETS
+  away: DALLAS MAVERICKS
+  homeAbbr: DEN
+  awayAbbr: DAL
+  note: ml no market; hc no market

@@ -1,0 +1,21 @@
+id: nba/26-11-24/q1end/WSH-vs-BOS
+timestamp: 2026-11-25T01:36:20.625Z
+salt: 2a3dd6f77efcf7a5
+timing: q1end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909315"
+  date: 2026-11-24
+  start: 2026-11-25T01:00Z
+  home: WASHINGTON WIZARDS
+  away: BOSTON CELTICS
+  homeAbbr: WSH
+  awayAbbr: BOS
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: WASHINGTON WIZARDS
+    odds: 7
+    prob: 0.23867022842759822
+    stake: 0.004129887311610907

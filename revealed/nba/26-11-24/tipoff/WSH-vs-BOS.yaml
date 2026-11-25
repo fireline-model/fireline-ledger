@@ -1,0 +1,27 @@
+id: nba/26-11-24/tipoff/WSH-vs-BOS
+timestamp: 2026-11-25T01:00:00.786Z
+salt: 682618bc0cd0584d
+timing: tipoff
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909315"
+  date: 2026-11-24
+  start: 2026-11-25T01:00Z
+  home: WASHINGTON WIZARDS
+  away: BOSTON CELTICS
+  homeAbbr: WSH
+  awayAbbr: BOS
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: WASHINGTON WIZARDS
+    odds: 4.51
+    prob: 0.2846178415345442
+    stake: 0.0012322669567535309
+  - market: spread
+    pick: WASHINGTON WIZARDS
+    line: 10.5
+    odds: 1.9615384615384617
+    prob: 0.6258551305257983
+    stake: 0.01342345673643548

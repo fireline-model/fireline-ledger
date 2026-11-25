@@ -1,0 +1,22 @@
+id: nba/26-11-24/pre1h/DEN-vs-DAL
+timestamp: 2026-11-25T01:00:04.612Z
+salt: a3fb9df2cf86ac38
+timing: pre1h
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909316"
+  date: 2026-11-24
+  start: 2026-11-25T03:00Z
+  home: DENVER NUGGETS
+  away: DALLAS MAVERICKS
+  homeAbbr: DEN
+  awayAbbr: DAL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: DALLAS MAVERICKS
+    line: 8.5
+    odds: 1.8928571428571428
+    prob: 0.6368469387296836
+    stake: 0.014382219381683065

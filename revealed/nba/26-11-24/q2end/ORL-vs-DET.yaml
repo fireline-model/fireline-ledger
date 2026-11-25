@@ -1,0 +1,27 @@
+id: nba/26-11-24/q2end/ORL-vs-DET
+timestamp: 2026-11-25T01:02:01.251Z
+salt: 3e35c8c4d0ed0144
+timing: q2end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909314"
+  date: 2026-11-24
+  start: 2026-11-25T00:00Z
+  home: ORLANDO MAGIC
+  away: DETROIT PISTONS
+  homeAbbr: ORL
+  awayAbbr: DET
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: DETROIT PISTONS
+    odds: 1.434782608695652
+    prob: 0.8222480359474682
+    stake: 0.002436283805266623
+  - market: spread
+    pick: DETROIT PISTONS
+    line: -3.5
+    odds: 1.8
+    prob: 0.73138802413774
+    stake: 0.02340237360889869
