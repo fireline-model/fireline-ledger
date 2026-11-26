@@ -1,0 +1,21 @@
+id: nba/26-11-25/pre1h/POR-vs-SA
+timestamp: 2026-11-26T01:00:13.634Z
+salt: 4156ba0b80a00a0a
+timing: pre1h
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909325"
+  date: 2026-11-25
+  start: 2026-11-26T03:00Z
+  home: PORTLAND TRAIL BLAZERS
+  away: SAN ANTONIO SPURS
+  homeAbbr: POR
+  awayAbbr: SA
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: PORTLAND TRAIL BLAZERS
+    odds: 2.3
+    prob: 0.4879771499401161
+    stake: 0.005882088695301299

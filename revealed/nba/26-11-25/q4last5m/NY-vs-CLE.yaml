@@ -1,0 +1,22 @@
+id: nba/26-11-25/q4last5m/NY-vs-CLE
+timestamp: 2026-11-26T02:47:18.121Z
+salt: 82dab50f535ccc4a
+timing: q4last5m
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909319"
+  date: 2026-11-25
+  start: 2026-11-26T00:30Z
+  home: NEW YORK KNICKS
+  away: CLEVELAND CAVALIERS
+  homeAbbr: NY
+  awayAbbr: CLE
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: -10.5
+    odds: 1.9090909090909092
+    prob: 0.673753329045262
+    stake: 0.019680124437190638

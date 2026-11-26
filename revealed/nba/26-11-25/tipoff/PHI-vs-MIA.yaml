@@ -1,0 +1,21 @@
+id: nba/26-11-25/tipoff/PHI-vs-MIA
+timestamp: 2026-11-25T22:00:30.718Z
+salt: 6f298ab7edeb0238
+timing: tipoff
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909317"
+  date: 2026-11-25
+  start: 2026-11-25T22:00Z
+  home: PHILADELPHIA 76ERS
+  away: MIAMI HEAT
+  homeAbbr: PHI
+  awayAbbr: MIA
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: MIAMI HEAT
+    odds: 1.9174311926605505
+    prob: 0.7188024132718862
+    stake: 0.02576856523364014

@@ -1,0 +1,15 @@
+id: nba/26-11-25/q2end/GS-vs-SAC
+timestamp: 2026-11-26T04:03:40.984Z
+salt: 1f23edfb66fef1f1
+timing: q2end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909324"
+  date: 2026-11-25
+  start: 2026-11-26T03:00Z
+  home: GOLDEN STATE WARRIORS
+  away: SACRAMENTO KINGS
+  homeAbbr: GS
+  awayAbbr: SAC
+  note: ml no bet; hc no market

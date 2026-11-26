@@ -1,0 +1,27 @@
+id: nba/26-11-25/pre3h/HOU-vs-PHX
+timestamp: 2026-11-25T21:02:56.149Z
+salt: 7714b2857488ed60
+timing: pre3h
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909323"
+  date: 2026-11-25
+  start: 2026-11-26T01:30Z
+  home: HOUSTON ROCKETS
+  away: PHOENIX SUNS
+  homeAbbr: HOU
+  awayAbbr: PHX
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: PHOENIX SUNS
+    odds: 4.12
+    prob: 0.2671538964241642
+    stake: 0.000588169080603552
+  - market: spread
+    pick: PHOENIX SUNS
+    line: 9.5
+    odds: 1.8620689655172413
+    prob: 0.5764920127266103
+    stake: 0.0045733493510316595

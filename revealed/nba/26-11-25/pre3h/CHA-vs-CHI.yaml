@@ -1,0 +1,27 @@
+id: nba/26-11-25/pre3h/CHA-vs-CHI
+timestamp: 2026-11-25T19:32:23.122Z
+salt: 6bb5b8e4c85d9e27
+timing: pre3h
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909318"
+  date: 2026-11-25
+  start: 2026-11-26T00:00Z
+  home: CHARLOTTE HORNETS
+  away: CHICAGO BULLS
+  homeAbbr: CHA
+  awayAbbr: CHI
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: CHARLOTTE HORNETS
+    odds: 1.5988023952095807
+    prob: 0.776584043652698
+    stake: 0.0116026064559575
+  - market: spread
+    pick: CHARLOTTE HORNETS
+    line: -3.5
+    odds: 1.9090909090909092
+    prob: 0.6857698378570523
+    stake: 0.013614855828586458

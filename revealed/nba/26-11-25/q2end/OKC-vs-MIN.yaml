@@ -1,0 +1,21 @@
+id: nba/26-11-25/q2end/OKC-vs-MIN
+timestamp: 2026-11-26T01:40:17.182Z
+salt: f96c400ccc964d6c
+timing: q2end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909320"
+  date: 2026-11-25
+  start: 2026-11-26T00:30Z
+  home: OKLAHOMA CITY THUNDER
+  away: MINNESOTA TIMBERWOLVES
+  homeAbbr: OKC
+  awayAbbr: MIN
+  note: ml bet; hc no market
+bets:
+  - market: moneyline
+    pick: MINNESOTA TIMBERWOLVES
+    odds: 2.3
+    prob: 0.47639199654414455
+    stake: 0.004601038079400591

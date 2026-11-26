@@ -1,0 +1,22 @@
+id: nba/26-11-25/q3end/MIL-vs-BKN
+timestamp: 2026-11-26T02:43:07.668Z
+salt: c533d8a21f150a3b
+timing: q3end
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909322"
+  date: 2026-11-25
+  start: 2026-11-26T01:00Z
+  home: MILWAUKEE BUCKS
+  away: BROOKLYN NETS
+  homeAbbr: MIL
+  awayAbbr: BKN
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: BROOKLYN NETS
+    line: -2.5
+    odds: 1.9523809523809523
+    prob: 0.5771295973694238
+    stake: 0.008319729662957428

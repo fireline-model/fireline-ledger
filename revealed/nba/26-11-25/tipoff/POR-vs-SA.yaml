@@ -1,0 +1,21 @@
+id: nba/26-11-25/tipoff/POR-vs-SA
+timestamp: 2026-11-26T03:00:08.960Z
+salt: 21415e3242d17588
+timing: tipoff
+model: graphite-26-11-24
+match:
+  league: nba
+  gameId: "401909325"
+  date: 2026-11-25
+  start: 2026-11-26T03:00Z
+  home: PORTLAND TRAIL BLAZERS
+  away: SAN ANTONIO SPURS
+  homeAbbr: POR
+  awayAbbr: SA
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: SAN ANTONIO SPURS
+    odds: 1.617283950617284
+    prob: 0.6924222478465097
+    stake: 0.01213414308486597
