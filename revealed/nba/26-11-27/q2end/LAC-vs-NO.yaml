@@ -1,0 +1,15 @@
+id: nba/26-11-27/q2end/LAC-vs-NO
+timestamp: 2026-11-28T03:32:59.615Z
+salt: 47b13cb474c1e9df
+timing: q2end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909335"
+  date: 2026-11-27
+  start: 2026-11-28T02:30Z
+  home: LA CLIPPERS
+  away: NEW ORLEANS PELICANS
+  homeAbbr: LAC
+  awayAbbr: NO
+  note: ml no market; hc no market

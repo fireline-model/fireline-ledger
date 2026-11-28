@@ -1,0 +1,22 @@
+id: nba/26-11-27/pre6h/POR-vs-GS
+timestamp: 2026-11-27T20:31:15.136Z
+salt: 7d150a35f6435c19
+timing: pre6h
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909336"
+  date: 2026-11-27
+  start: 2026-11-28T02:30Z
+  home: PORTLAND TRAIL BLAZERS
+  away: GOLDEN STATE WARRIORS
+  homeAbbr: POR
+  awayAbbr: GS
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: GOLDEN STATE WARRIORS
+    line: 7.5
+    odds: 1.8928571428571428
+    prob: 0.6916472564704994
+    stake: 0.02164326148234117

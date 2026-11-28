@@ -1,0 +1,21 @@
+id: nba/26-11-27/tipoff/IND-vs-PHI
+timestamp: 2026-11-28T00:30:11.689Z
+salt: 3a3451b27f70c2d2
+timing: tipoff
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909328"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: INDIANA PACERS
+  away: PHILADELPHIA 76ERS
+  homeAbbr: IND
+  awayAbbr: PHI
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: PHILADELPHIA 76ERS
+    odds: 1.5235602094240837
+    prob: 0.6617627667082218
+    stake: 0.0009831031950578238

@@ -1,0 +1,22 @@
+id: nba/26-11-27/pre1h/PHX-vs-DAL
+timestamp: 2026-11-28T00:00:25.857Z
+salt: ca2e790eec5101c1
+timing: pre1h
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909332"
+  date: 2026-11-27
+  start: 2026-11-28T02:00Z
+  home: PHOENIX SUNS
+  away: DALLAS MAVERICKS
+  homeAbbr: PHX
+  awayAbbr: DAL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: DALLAS MAVERICKS
+    line: 3.5
+    odds: 1.8771929824561404
+    prob: 0.722696680641612
+    stake: 0.025410681035815605

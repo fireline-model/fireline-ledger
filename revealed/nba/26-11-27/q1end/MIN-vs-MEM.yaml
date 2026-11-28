@@ -1,0 +1,15 @@
+id: nba/26-11-27/q1end/MIN-vs-MEM
+timestamp: 2026-11-28T02:01:59.951Z
+salt: e46ff819c239b8e1
+timing: q1end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909331"
+  date: 2026-11-27
+  start: 2026-11-28T01:30Z
+  home: MINNESOTA TIMBERWOLVES
+  away: MEMPHIS GRIZZLIES
+  homeAbbr: MIN
+  awayAbbr: MEM
+  note: ml no market; hc no market

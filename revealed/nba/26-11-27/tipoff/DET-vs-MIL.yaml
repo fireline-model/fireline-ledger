@@ -1,0 +1,22 @@
+id: nba/26-11-27/tipoff/DET-vs-MIL
+timestamp: 2026-11-28T00:30:02.818Z
+salt: 8f03dcfdbff1fd9d
+timing: tipoff
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909327"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: DETROIT PISTONS
+  away: MILWAUKEE BUCKS
+  homeAbbr: DET
+  awayAbbr: MIL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: DETROIT PISTONS
+    line: -9.5
+    odds: 1.8928571428571428
+    prob: 0.5454916374241076
+    stake: 0.002277641958694252

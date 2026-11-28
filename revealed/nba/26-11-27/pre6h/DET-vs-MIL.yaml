@@ -1,0 +1,15 @@
+id: nba/26-11-27/pre6h/DET-vs-MIL
+timestamp: 2026-11-27T18:31:04.570Z
+salt: 96c1fc3cb6f55b74
+timing: pre6h
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909327"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: DETROIT PISTONS
+  away: MILWAUKEE BUCKS
+  homeAbbr: DET
+  awayAbbr: MIL
+  note: ml no bet; hc no bet

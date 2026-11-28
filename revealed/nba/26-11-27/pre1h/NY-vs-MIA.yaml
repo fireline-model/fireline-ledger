@@ -1,0 +1,27 @@
+id: nba/26-11-27/pre1h/NY-vs-MIA
+timestamp: 2026-11-27T22:01:04.533Z
+salt: 5bc9c7ed9b795b24
+timing: pre1h
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909326"
+  date: 2026-11-27
+  start: 2026-11-28T00:00Z
+  home: NEW YORK KNICKS
+  away: MIAMI HEAT
+  homeAbbr: NY
+  awayAbbr: MIA
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: NEW YORK KNICKS
+    odds: 1.6756756756756757
+    prob: 0.7388320003359649
+    stake: 0.004151373667815379
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: -2.5
+    odds: 1.8928571428571428
+    prob: 0.6868616336392493
+    stake: 0.01786758638425917

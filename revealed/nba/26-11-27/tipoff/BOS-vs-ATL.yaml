@@ -1,0 +1,22 @@
+id: nba/26-11-27/tipoff/BOS-vs-ATL
+timestamp: 2026-11-28T01:00:01.793Z
+salt: a1d50f2f82e3bbcf
+timing: tipoff
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909330"
+  date: 2026-11-27
+  start: 2026-11-28T01:00Z
+  home: BOSTON CELTICS
+  away: ATLANTA HAWKS
+  homeAbbr: BOS
+  awayAbbr: ATL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: BOSTON CELTICS
+    line: -9.5
+    odds: 1.970873786407767
+    prob: 0.6452547918536086
+    stake: 0.01749170171642659

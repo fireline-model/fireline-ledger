@@ -1,0 +1,22 @@
+id: nba/26-11-27/q2end/IND-vs-PHI
+timestamp: 2026-11-28T01:36:35.478Z
+salt: 5fb4d2b1309951b9
+timing: q2end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909328"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: INDIANA PACERS
+  away: PHILADELPHIA 76ERS
+  homeAbbr: IND
+  awayAbbr: PHI
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: INDIANA PACERS
+    line: 9.5
+    odds: 1.8695652173913042
+    prob: 0.5668758439348849
+    stake: 0.004298941528750154

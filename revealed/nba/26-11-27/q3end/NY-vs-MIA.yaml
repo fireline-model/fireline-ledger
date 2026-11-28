@@ -1,0 +1,22 @@
+id: nba/26-11-27/q3end/NY-vs-MIA
+timestamp: 2026-11-28T01:52:39.162Z
+salt: 404d01d775bad3f3
+timing: q3end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909326"
+  date: 2026-11-27
+  start: 2026-11-28T00:00Z
+  home: NEW YORK KNICKS
+  away: MIAMI HEAT
+  homeAbbr: NY
+  awayAbbr: MIA
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: NEW YORK KNICKS
+    line: 6.5
+    odds: 1.8695652173913042
+    prob: 0.5406916370300935
+    stake: 0.0007804387259188036

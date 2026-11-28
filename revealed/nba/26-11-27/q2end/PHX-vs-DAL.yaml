@@ -1,0 +1,15 @@
+id: nba/26-11-27/q2end/PHX-vs-DAL
+timestamp: 2026-11-28T03:05:24.710Z
+salt: 1d91ab328d63abed
+timing: q2end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909332"
+  date: 2026-11-27
+  start: 2026-11-28T02:00Z
+  home: PHOENIX SUNS
+  away: DALLAS MAVERICKS
+  homeAbbr: PHX
+  awayAbbr: DAL
+  note: ml no bet; hc no bet

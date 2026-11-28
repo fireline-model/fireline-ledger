@@ -1,0 +1,27 @@
+id: nba/26-11-27/q2end/TOR-vs-BKN
+timestamp: 2026-11-28T01:37:41.623Z
+salt: 464fc06b9a68f62c
+timing: q2end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909329"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: TORONTO RAPTORS
+  away: BROOKLYN NETS
+  homeAbbr: TOR
+  awayAbbr: BKN
+  note: ml bet; hc bet
+bets:
+  - market: moneyline
+    pick: BROOKLYN NETS
+    odds: 7
+    prob: 0.1861023934906938
+    stake: 0.0005618791455099209
+  - market: spread
+    pick: BROOKLYN NETS
+    line: 12.5
+    odds: 1.8695652173913042
+    prob: 0.5943001331570377
+    stake: 0.0056495572858534775

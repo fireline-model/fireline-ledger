@@ -1,0 +1,22 @@
+id: nba/26-11-27/q2end/BOS-vs-ATL
+timestamp: 2026-11-28T02:03:24.025Z
+salt: 375a1eeadc104427
+timing: q2end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909330"
+  date: 2026-11-27
+  start: 2026-11-28T01:00Z
+  home: BOSTON CELTICS
+  away: ATLANTA HAWKS
+  homeAbbr: BOS
+  awayAbbr: ATL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: BOSTON CELTICS
+    line: -16.5
+    odds: 1.8
+    prob: 0.5747498014126533
+    stake: 0.002699190823654378

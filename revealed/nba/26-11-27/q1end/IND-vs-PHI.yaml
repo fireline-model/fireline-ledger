@@ -1,0 +1,15 @@
+id: nba/26-11-27/q1end/IND-vs-PHI
+timestamp: 2026-11-28T01:06:06.740Z
+salt: 7f9f812a9ae9cf77
+timing: q1end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909328"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: INDIANA PACERS
+  away: PHILADELPHIA 76ERS
+  homeAbbr: IND
+  awayAbbr: PHI
+  note: ml no bet; hc no bet

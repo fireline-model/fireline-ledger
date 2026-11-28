@@ -1,0 +1,22 @@
+id: nba/26-11-27/pre1h/SA-vs-LAL
+timestamp: 2026-11-28T00:30:19.897Z
+salt: 38787d5696ef1080
+timing: pre1h
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909333"
+  date: 2026-11-27
+  start: 2026-11-28T02:30Z
+  home: SAN ANTONIO SPURS
+  away: LOS ANGELES LAKERS
+  homeAbbr: SA
+  awayAbbr: LAL
+  note: ml no bet; hc bet
+bets:
+  - market: spread
+    pick: LOS ANGELES LAKERS
+    line: 6.5
+    odds: 1.847457627118644
+    prob: 0.6622005551701464
+    stake: 0.016474825641932443

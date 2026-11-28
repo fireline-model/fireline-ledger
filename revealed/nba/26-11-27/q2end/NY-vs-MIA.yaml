@@ -1,0 +1,15 @@
+id: nba/26-11-27/q2end/NY-vs-MIA
+timestamp: 2026-11-28T01:07:01.228Z
+salt: dc2b564d62ecc73d
+timing: q2end
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909326"
+  date: 2026-11-27
+  start: 2026-11-28T00:00Z
+  home: NEW YORK KNICKS
+  away: MIAMI HEAT
+  homeAbbr: NY
+  awayAbbr: MIA
+  note: ml no bet; hc no market

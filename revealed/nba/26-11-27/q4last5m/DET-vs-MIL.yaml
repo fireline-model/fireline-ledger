@@ -1,0 +1,21 @@
+id: nba/26-11-27/q4last5m/DET-vs-MIL
+timestamp: 2026-11-28T02:40:25.886Z
+salt: 4da6d540101ad034
+timing: q4last5m
+model: graphite-26-11-26
+match:
+  league: nba
+  gameId: "401909327"
+  date: 2026-11-27
+  start: 2026-11-28T00:30Z
+  home: DETROIT PISTONS
+  away: MILWAUKEE BUCKS
+  homeAbbr: DET
+  awayAbbr: MIL
+  note: ml bet; hc no bet
+bets:
+  - market: moneyline
+    pick: DETROIT PISTONS
+    odds: 1.01
+    prob: 0.9970207069199631
+    stake: 0.043693212432266385
